@@ -13,18 +13,20 @@ header {
 }
 
 .title {
-    margin-right: 0;
+    margin: 0;
 }
 
-#linkedin-icon {
+#social-icons {
     position: absolute;
-    top: 50%; /* Position the icon halfway down the page */
-    left: 50%; /* Center the icon horizontally */
-    transform: translate(-50%, -50%); /* Offset the icon to fully center it */
+    top: 50%; /* Position the icons halfway down the page */
+    left: 50%; /* Center the icons horizontally */
+    transform: translate(-50%, -50%); /* Offset to fully center */
+    display: flex;
+    gap: 10px; /* Add space between the icons */
 }
 
-#linkedin-icon img {
-    width: 32px;
+#social-icons a img {
+    width: 32px; /* Set size for both icons */
     height: 32px;
 }
 
