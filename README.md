@@ -42,7 +42,7 @@ Select an option from the 3 given, in this example was selected Access student b
 </p>
 
 2.	#### Create GitHub repo with simple personal website. 
-- **Create GitHub repo**
+**Create GitHub repo**
 
 GitHub repositories store a variety of projects. In this guide, you'll create a repository and commit your first change.
 
