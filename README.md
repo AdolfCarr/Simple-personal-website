@@ -43,6 +43,7 @@ Select an option from the 3 given, in this example was selected Access student b
 
 2.	#### Create GitHub repo with simple personal website. 
 - **Create GitHub repo**
+
 GitHub repositories store a variety of projects. In this guide, you'll create a repository and commit your first change.
 
   - In the upper-right corner of any page, select, then click New repository.
