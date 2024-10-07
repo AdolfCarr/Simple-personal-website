@@ -57,3 +57,21 @@ GitHub repositories store a variety of projects. In this guide, you'll create a 
   <em>Fig 1: Create GitHub repository</em>
 </p>
 
+  - Type a short, memorable name for your repository. For example, "hello-world".
+
+  <p align="center">
+  <img src="images/github_2.png" width="596" height="338" alt="Create GitHub repository">
+</p>
+<p align="center">
+
+<p align="center">
+  <em>Fig 1: Create GitHub repository</em>
+</p>
+
+  - Optionally, add a description of your repository. For example, "My first repository on GitHub."
+  - Choose a repository visibility. 
+  - Select Initialize this repository with a README.
+  - Click Create repository.
+  
+Congratulations! You've successfully created your first repository and initialized it with a README file.
+
