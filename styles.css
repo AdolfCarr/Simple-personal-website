@@ -29,9 +29,9 @@ header {
 }
 
 #github-icon img {
-    background-color: rgba(255, 255, 255, 0.8); /* Adds a semi-transparent white background */
+    background-color: rgb(255, 255, 255); /* Adds a semi-transparent white background */
     border-radius: 50%; /* Makes the background rounded */
-    padding: 5px; /* Adds space around the icon */
+    padding: 1px; /* Adds space around the icon */
 }
 
 #main-content {
