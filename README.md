@@ -33,7 +33,7 @@ Go to Azure portal. Azure Static Web Apps is very simple and easy to work with. 
 Select an option from the 3 given, in this example was selected Access student benefits.
 
 <p align="center">
-  <img src="images/create_static_web_app_0.png" width="298" height="169" alt="Create Azure Portal Account">
+  <img src="images/create_static_web_app_0.png" width="596" height="338" alt="Create Azure Portal Account">
 </p>
 <p align="center">
 
