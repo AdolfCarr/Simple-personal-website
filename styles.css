@@ -17,12 +17,10 @@ header {
 }
 
 #social-icons {
-    position: absolute;
-    top: 50%; /* Position the icons halfway down the page */
-    left: 50%; /* Center the icons horizontally */
-    transform: translate(-50%, -50%); /* Offset to fully center */
+    margin: 50px auto; /* Adds margin between title and image */
     display: flex;
-    gap: 10px; /* Add space between the icons */
+    justify-content: center;
+    gap: 20px; /* Adds space between LinkedIn and GitHub icons */
 }
 
 #social-icons a img {
@@ -34,7 +32,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: 50vh;
     margin-top: 50px;
 }
 
