@@ -62,7 +62,7 @@ GitHub repositories store a variety of projects. In this guide, you'll create a 
   - Type a short, memorable name for your repository. For example, "hello-world".
 
 <p align="center">
-  <img src="images/github_2.png" width="1028" height="270" alt="Create GitHub repository">
+  <img src="images/github_2.png" width="514" height="135" alt="Create GitHub repository">
 </p>
 <p align="center">
 
