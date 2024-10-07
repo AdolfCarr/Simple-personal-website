@@ -10,13 +10,17 @@ body {
 header {
     padding: 20px;
     font-size: 32px;
-    display: flex;
-    align-items: center; /* Center align items vertically */
-    justify-content: center; /* Center the header content horizontally */
 }
 
 .title {
-    margin-right: 10px; /* Space between title and icon */
+    margin-right: 0;
+}
+
+#linkedin-icon {
+    position: absolute;
+    top: 50%; /* Position the icon halfway down the page */
+    left: 50%; /* Center the icon horizontally */
+    transform: translate(-50%, -50%); /* Offset the icon to fully center it */
 }
 
 #linkedin-icon img {
@@ -29,6 +33,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 70vh;
+    margin-top: 50px;
 }
 
 #main-content img {
