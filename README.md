@@ -1,4 +1,6 @@
-## Simple Personal Website for Azure Static Web App
+# Azure Practical Task
+
+## Simple Personal Website for Azure Static Web App 
 
 This project is a simple personal website created to develop and test the Azure Static Web App using GitHub Actions or to utilize Create Azure Web App with Azure App Services. It is part of the task assigned for the EPAM [Fundamentals] Cloud & DevOps Assessment Mexico, as part of the Cloud Assessment program.
 
