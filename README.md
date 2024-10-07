@@ -21,3 +21,6 @@ The goal of this project is to demonstrate the ability to:
 
 ### Deployment
 The project is deployed on Azure Static Web Apps, with the DNS record provided by Microsoft under the .azurewebsites.net domain.
+
+### Additional Resources
+For detailed instructions on how to deploy the simple web app on the Cloud Azure, please refer to the PDF document located in the documents folder: [Azure Fundamentals Task Instructions](documents/Azure_Fundamentals_Task_Gustavo_Adolfo_Carrillo_Camacho.pdf)
