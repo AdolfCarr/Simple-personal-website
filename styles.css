@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    font-size: 32px;
+}
+
+#linkedin-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#linkedin-icon img {
+    width: 32px;
+    height: 32px;
+}
+
+#main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+#main-content img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 10px;
+}
