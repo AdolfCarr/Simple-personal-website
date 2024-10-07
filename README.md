@@ -18,7 +18,7 @@ The goal of this project is to demonstrate the ability to:
   - A link to the developer's GitHub profile.
   - A centered image.
 - A GitHub Actions workflow to automate deployment to Azure.
-- Step-by-step instructions and screenshots (found in the README.md file) that detail the setup and deployment process.
+- Step-by-step instructions and screenshots (found in the README.md file) that detail the setup and deployment process. Additionally, there is a link to the same instructions and screenshots in PDF format located in the section of the README.md named 'Additional Resources.'
 
 ### Deployment
 The project is deployed on Azure Static Web Apps, with the DNS record provided by Microsoft under the .azurewebsites.net domain.
