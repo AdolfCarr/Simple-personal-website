@@ -51,7 +51,7 @@ GitHub repositories store a variety of projects. In this guide, you'll create a 
   - In the upper-right corner of any page, select, then click New repository.
 
 <p align="center">
-  <img src="images/github_1.png" width="596" height="338" alt="Create GitHub repository">
+  <img src="images/github_1.png" width="223" height="158" alt="Create GitHub repository">
 </p>
 <p align="center">
 
@@ -62,7 +62,7 @@ GitHub repositories store a variety of projects. In this guide, you'll create a 
   - Type a short, memorable name for your repository. For example, "hello-world".
 
 <p align="center">
-  <img src="images/github_2.png" width="596" height="338" alt="Create GitHub repository">
+  <img src="images/github_2.png" width="1028" height="270" alt="Create GitHub repository">
 </p>
 <p align="center">
 
@@ -87,7 +87,7 @@ Let's commit a change to the README file.
   - In your repository's list of files, select README.md.
 
 <p align="center">
-  <img src="images/github_3.png" width="596" height="338" alt="Commit your first change">
+  <img src="images/github_3.png" width="481" height="143" alt="Commit your first change">
 </p>
 <p align="center">
 
@@ -98,7 +98,7 @@ Let's commit a change to the README file.
   - In the upper right corner of the file view, click to open the file editor.
 
 <p align="center">
-  <img src="images/github_4.png" width="596" height="338" alt="Commit your first change">
+  <img src="images/github_4.png" width="512" height="165" alt="Commit your first change">
 </p>
 <p align="center">
 
@@ -110,7 +110,7 @@ Let's commit a change to the README file.
   - Above the new content, click `Preview`.
 
 <p align="center">
-  <img src="images/github_5.png" width="596" height="338" alt="Commit your first change">
+  <img src="images/github_5.png" width="554" height="113" alt="Commit your first change">
 </p>
 <p align="center">
 
@@ -121,7 +121,7 @@ Let's commit a change to the README file.
   - Review the changes you made to the file. If you select Show diff, you will see the new content in green.
 
 <p align="center">
-  <img src="images/github_6.png" width="596" height="338" alt="Commit your first change">
+  <img src="images/github_6.png" width="1015" height="238" alt="Commit your first change">
 </p>
 <p align="center">
 
@@ -134,7 +134,7 @@ Let's commit a change to the README file.
   - Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. 
 
   <p align="center">
-  <img src="images/github_7.png" width="596" height="338" alt="Commit your first change">
+  <img src="images/github_7.png" width="517" height="130" alt="Commit your first change">
 </p>
 <p align="center">
 
