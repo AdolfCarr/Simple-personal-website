@@ -25,3 +25,20 @@ The project is deployed on Azure Static Web Apps, with the DNS record provided b
 
 ### Additional Resources
 For detailed instructions on how to deploy the simple web app on the Cloud Azure, please refer to the PDF document located in the documents folder: [Azure Fundamentals Task Instructions](documents/Azure_Fundamentals_Task_Gustavo_Adolfo_Carrillo_Camacho.pdf)
+
+### Setup and Deployment Process
+
+1.	#### Create Azure Web App with Azure App Services. 
+Go to Azure portal. Azure Static Web Apps is very simple and easy to work with. There are 3 ways to create the Azure Static Web Apps, i.e., VS Code, Azure portal, and Azure CLI. 
+Select an option from the 3 given, in this example was selected Access student benefits.
+
+<p align="center">
+  <img src="images/create_static_web_app_0.png" width="298" height="169" alt="Create Azure Portal Account">
+</p>
+<p align="center">
+
+<p align="center">
+  <em>Fig 1: Create Azure Portal Account</em>
+</p>
+
+
