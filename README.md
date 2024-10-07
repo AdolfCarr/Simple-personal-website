@@ -59,19 +59,96 @@ GitHub repositories store a variety of projects. In this guide, you'll create a 
 
   - Type a short, memorable name for your repository. For example, "hello-world".
 
-  <p align="center">
+<p align="center">
   <img src="images/github_2.png" width="596" height="338" alt="Create GitHub repository">
 </p>
 <p align="center">
 
 <p align="center">
-  <em>Fig 1: Create GitHub repository</em>
+  <em>Fig 2: Create GitHub repository</em>
 </p>
 
   - Optionally, add a description of your repository. For example, "My first repository on GitHub."
   - Choose a repository visibility. 
   - Select Initialize this repository with a README.
   - Click Create repository.
-  
+
 Congratulations! You've successfully created your first repository and initialized it with a README file.
 
+**Commit your first change**
+
+A commit is like a snapshot of all the files in your project at a particular point in time.
+When you created your new repository, you initialized it with a README file. README files are a great place to describe your project in more detail or add some documentation such as how to install or use your project. The contents of your README file are automatically shown on the front page of your repository.
+
+Let's commit a change to the README file.
+
+  - In your repository's list of files, select README.md.
+
+<p align="center">
+  <img src="images/github_3.png" width="596" height="338" alt="Commit your first change">
+</p>
+<p align="center">
+
+<p align="center">
+  <em>Fig 3: Commit your first change</em>
+</p>
+
+  - In the upper right corner of the file view, click to open the file editor.
+
+<p align="center">
+  <img src="images/github_4.png" width="596" height="338" alt="Commit your first change">
+</p>
+<p align="center">
+
+<p align="center">
+  <em>Fig 4: Commit your first change</em>
+</p>
+
+  - In the text box, type some information about yourself.
+  - Above the new content, click `Preview`.
+
+<p align="center">
+  <img src="images/github_5.png" width="596" height="338" alt="Commit your first change">
+</p>
+<p align="center">
+
+<p align="center">
+  <em>Fig 5: Commit your first change</em>
+</p>
+
+  - Review the changes you made to the file. If you select Show diff, you will see the new content in green.
+
+<p align="center">
+  <img src="images/github_6.png" width="596" height="338" alt="Commit your first change">
+</p>
+<p align="center">
+
+<p align="center">
+  <em>Fig 6: Commit your first change</em>
+</p>
+
+  - Click Commit changes...
+  - In the "Commit message" field, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.  
+  - Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. 
+
+  <p align="center">
+  <img src="images/github_7.png" width="596" height="338" alt="Commit your first change">
+</p>
+<p align="center">
+
+<p align="center">
+  <em>Fig 7: Commit your first change</em>
+</p>
+
+
+  - Click Commit changes or Propose changes.
+
+**Next steps**
+
+You have now created a repository, including a README file, and created your first commit on GitHub.
+  - You can now clone a GitHub repository to create a local copy on your computer. From your local repository you can commit and create a pull request to update the changes in the upstream repository. 
+  - You can find interesting projects and repositories on GitHub and make changes to them by creating a fork of the repository. Forking a repository will allow you to make changes to another repository without affecting the original.
+  - Each repository on GitHub is owned by a person or an organization. You can interact with the people, repositories, and organizations by connecting and following them on GitHub.
+  - GitHub has a great support community where you can ask for help and talk to people from around the world. Join the conversation on GitHub Community.
+
+>Create the files to generate the simple web site inside your cloned GitHub repository.
