@@ -156,7 +156,7 @@ You have now created a repository, including a README file, and created your fir
 
 3.	#### Deploy an application with GitHub Actions and Azure Static Web Apps. 
 
-Give a resource Group name at the Static Web App details.
+Give a resource Group name at the `Static Web App details`.
 
 <p align="center">
   <img src="images/create_static_web_app_1.png" width="596" height="338" alt="Deploy of the Static Web App on the Azure Portal">
@@ -167,7 +167,7 @@ Give a resource Group name at the Static Web App details.
   <em>Fig 9: Deploy of the Static Web App on the Azure Portal</em>
 </p>
 
-Select `the Plan type`, `Deployment details` and then select the `Organization`.
+Select the `Plan type`, `Deployment details` and then select the `Organization`.
 
 <p align="center">
   <img src="images/create_static_web_app_2.png" width="596" height="338" alt="Deploy of the Static Web App on the Azure Portal">
@@ -242,7 +242,7 @@ Now your site web is completely deployed on the Cloud Azure. Click on `Go to res
   <em>Fig 16: Deploy of the Static Web App on the Azure Portal</em>
 </p>
 
-Here pressing on the `Visit your site` >button, you can see the static app deployed on Cloud Azure under the DNS provided by Microsoft.
+Here pressing on the `Visit your site` button, you can see **`the static app deployed on Cloud Azure under the DNS provided by Microsoft`**.
 
 Here is the Azure Static Web App developed for this task.
 
