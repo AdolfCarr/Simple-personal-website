@@ -45,7 +45,7 @@ Select an option from the 3 given, in this example was selected Access student b
 Create GitHub repo
 GitHub repositories store a variety of projects. In this guide, you'll create a repository and commit your first change.
 
-- 1.	In the upper-right corner of any page, select, then click New repository.
+- In the upper-right corner of any page, select, then click New repository.
 
 <p align="center">
   <img src="images/github_1.png" width="596" height="338" alt="Create GitHub repository">
