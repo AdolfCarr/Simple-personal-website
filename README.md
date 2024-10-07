@@ -15,6 +15,7 @@ The goal of this project is to demonstrate the ability to:
   - A black background.
   - A title with the developer's name.
   - A link to the developer's LinkedIn profile.
+  - A link to the developer's GitHub profile.
   - A centered image.
 - A GitHub Actions workflow to automate deployment to Azure.
 - Step-by-step instructions and screenshots (found in the README.md file) that detail the setup and deployment process.
