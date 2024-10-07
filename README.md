@@ -121,7 +121,7 @@ Let's commit a change to the README file.
   - Review the changes you made to the file. If you select Show diff, you will see the new content in green.
 
 <p align="center">
-  <img src="images/github_6.png" width="1015" height="238" alt="Commit your first change">
+  <img src="images/github_6.png" width="508" height="119" alt="Commit your first change">
 </p>
 <p align="center">
 
@@ -134,7 +134,7 @@ Let's commit a change to the README file.
   - Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. 
 
   <p align="center">
-  <img src="images/github_7.png" width="258" height="65" alt="Commit your first change">
+  <img src="images/github_7.png" width="517" height="130" alt="Commit your first change">
 </p>
 <p align="center">
 
